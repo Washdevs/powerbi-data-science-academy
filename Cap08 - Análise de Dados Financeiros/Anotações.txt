@@ -1,0 +1,28 @@
+= Table.UnpivotOtherColumns(#"Tipo Alterado1", {"Tipo", "Componente"}, "Data", "Valor")
+
+
+📌 Explicação rápida e direta da M função:
+Essa linha M do Power Query (no Power BI) faz o seguinte:
+
+✅ O que ela faz:
+Transforma todas as colunas (exceto "Tipo" e "Componente") em linhas, criando duas novas colunas chamadas:
+
+"Data" → Nome original da coluna (que virou linha)
+
+"Valor" → O valor que estava dentro daquela célula
+
+✅ Em outras palavras:
+Ela desfaz a estrutura de colunas múltiplas por data (ou outro critério) e transforma isso em formato de linha única por combinação de Tipo + Componente + Data + Valor.
+
+✅ Exemplo rápido antes/depois:
+Antes:
+Tipo	Componente	01/01	02/01	03/01
+A	X	10	20	30
+
+Depois:
+Tipo	Componente	Data	Valor
+A	X	01/01	10
+A	X	02/01	20
+A	X	03/01	30
+
+Se quiser, posso explicar o erro que você estava tendo também.
