@@ -1,0 +1,3 @@
+Oque aprendi, Criar gráficos, inserir dados, transformar dados, fazer medidas rápidas, medidas simples DAX, Power Query com M language básico,
+ Criar análise e analisar os dados antes de tomar decisão, mais de um ramo de uso de análise de dados.
+ 
