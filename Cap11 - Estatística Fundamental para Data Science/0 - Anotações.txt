@@ -1,0 +1,6 @@
+Agora iremos elever o nível usadno o BI com foco em Data Science para limpeza e manipulação de Dados, uso da Linguagem SQL,
+Banco de Dados, Machine Learning e até mesmo IA, Visando detctar padrões nos dados, encontrar anomalias,
+fazer previsões e entregar análises ainda melhores aos tomadores de decisão.
+
+
+Veremos os limites do PowerBi então aprenderemos outras ferramentas complementares.

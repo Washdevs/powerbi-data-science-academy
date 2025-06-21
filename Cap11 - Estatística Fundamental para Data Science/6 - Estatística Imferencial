@@ -1,0 +1,46 @@
+A Estatística Inferencial é um conjunto de técnicas e métodos usados para fazer generalizações e previsões sobre uma população 
+com base em informações obtidas de uma amostra dessa população. A Estatística Inferencial permite estimar características da população, testar hipóteses e fazer previsões. 
+
+
+Algumas dasprincipais técnicas de Estatística Inferencial incluem:
+
+-- a.Estimação: Estimação pontual e intervalar são usadas para estimar parâmetros populacionais,como a média ou a proporção, 
+com base em dados amostrais e um grau de incerteza associado.
+
+-- b.Testes de hipóteses: Testes de hipóteses são usados para testar afirmações ou suposições sobre parâmetros populacionais,
+como comparar médias entre dois grupos ou verificar se uma proporção é significativamente diferente de um valor esperado.
+
+-- c.Análise de regressão: A análise de regressão é usada para modelar a relação entre uma variável dependente e uma ou mais variáveis independentes,
+ permitindo prever valores futuros ou identificar variáveis que impactam o resultado de interesse.
+
+-- d.Análise de variância (ANOVA): AANOVA é uma técnica usada para comparar as médias de dois ou mais grupos, verificando se há diferenças significativas entre eles.
+
+-- e.Modelos probabilísticos e análise de séries temporais: São usados para analisar e modelar eventos aleatórios e a evolução devariáveis ao longo do tempo.
+
+
+O Power BI NÃOéumaferramenta para Estatística Inferencial. Ou seja, o Power BI é uma ferramenta de Business Intelligence(onde usamos Estatística Descritiva)
+não de Data Science (onde usamos Estatística Inferencial). 
+Para Estatística Inferencial devemos usar ferramentas adequadas como pacotes das Linguagem Python ou R, IBM SPSS, SAS entre outras.
+Embora o Power BI possa ser usado para algumas tarefas em Ciência de Dados (como limpeza e transformação de dados, por exemplo),
+para tarefas de Estatística Inferencial devemos usar outras ferramentas.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Resumo sobre Estatística Inferencial:
+A Estatística Inferencial é um conjunto de métodos que permite fazer previsões, generalizações e testar hipóteses sobre uma população, a partir de dados de uma amostra.
+
+Principais técnicas:
+
+Estimação: Calcula valores aproximados de parâmetros populacionais (como médias ou proporções), incluindo uma margem de erro.
+
+Testes de hipóteses: Avalia se afirmações sobre a população são verdadeiras, como comparar médias de grupos.
+
+Análise de regressão: Estuda a relação entre variáveis, ajudando a prever resultados futuros.
+
+ANOVA (Análise de Variância): Compara médias de vários grupos para identificar diferenças significativas.
+
+Modelos probabilísticos e séries temporais: Analisam eventos aleatórios e a evolução de variáveis ao longo do tempo.
+
+Importante:
+O Power BI é uma ferramenta de Estatística Descritiva (Business Intelligence), não serve para Estatística Inferencial.
+Para análises inferenciais, devem-se usar ferramentas como Python, R, SPSS, SAS, entre outras.

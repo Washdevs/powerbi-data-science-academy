@@ -1,0 +1,4 @@
+A Estatística é um campo diversificado, com aplicações em diversas áreas. No entanto, 
+as principais áreas da Estatística podem ser divididas em dois ramos:
+Estatística Descritiva e Estatística Inferencial. Esses ramos abordam diferentes aspectos do trabalho com dados e permitem extrair informações 
+e conclusões a partir deles.
