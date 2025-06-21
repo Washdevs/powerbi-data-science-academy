@@ -1,0 +1,52 @@
+Amostragem Probabilística
+Nas técnicas de amostragem probabilística, cada elemento da população tem uma chance conhecida e não nula de ser selecionado para a amostra. Essas técnicas geralmente 
+resultam em amostras mais representativas e permitem o cálculo de medidas de incerteza, como margem de erro e intervalos de confiança.
+As principais técnicas de amostragem probabilística incluem:
+
+a. Amostragem aleatória simples:
+Cada elemento da população tem igual probabilidade de ser selecionado. Funciona como um sorteio, onde todos os elementos têm a mesma chance de serem escolhidos.
+
+b. Amostragem sistemática:
+Os elementos da população são selecionados em intervalos fixos, a partir de um ponto de partida aleatório. Exemplo: escolher 1 elemento a cada 10.
+
+c. Amostragem estratificada:
+A população é dividida em subgrupos homogêneos, chamados estratos, e uma amostra aleatória é selecionada de cada estrato. Isso garante que todos os segmentos da população
+estejam adequadamente representados.
+
+d. Amostragem por conglomerados:
+A população é dividida em grupos heterogêneos chamados conglomerados. Alguns conglomerados são selecionados aleatoriamente e todos os elementos desses conglomerados 
+são incluídos na amostra. A seleção pode ser baseada em critérios geográficos, demográficos ou outros.
+
+Amostragem Não Probabilística
+Nas técnicas de amostragem não probabilística, a seleção dos elementos da população não é baseada em probabilidade. São mais fáceis e rápidas de executar, 
+porém podem resultar em amostras menos representativas e não permitem o cálculo de medidas de incerteza. As principais técnicas são:
+
+a. Amostragem por conveniência:
+A seleção é baseada na facilidade de acesso e disponibilidade dos elementos. Pode ser enviesada, pois nem todos têm a mesma chance de serem escolhidos.
+
+b. Amostragem por julgamento:
+O pesquisador escolhe os elementos da amostra com base em seu conhecimento e critérios próprios. Embora útil em casos específicos, é suscetível a vieses e erros de julgamento.
+
+c. Amostragem por quotas:
+Semelhante à amostragem estratificada, a população é dividida em subgrupos, mas a seleção dos elementos é não aleatória, baseada em características específicas, 
+até atingir uma quota pré-determinada.
+
+A amostragem é uma etapa fundamental em projetos de Ciência de Dados.
+
+
+
+-- Resumo -------------------------------------------------------------------------------------------
+
+
+As técnicas de amostragem são métodos para escolher uma parte representativa da população em pesquisas, garantindo a confiabilidade dos resultados. Existem dois tipos principais:
+
+1 - Amostragem Probabilística:
+Cada elemento tem chance conhecida de ser escolhido, o que permite o cálculo de margem de erro e intervalo de confiança. Exemplos: amostragem aleatória simples, 
+sistemática, estratificada e por conglomerados.
+
+2 - Amostragem Não Probabilística:
+A escolha não depende de probabilidade, sendo mais rápida, porém com maior risco de viés. Exemplos: amostragem por conveniência, por julgamento e por quotas.
+
+A escolha da técnica influencia diretamente a qualidade dos dados, sendo essencial em projetos de Ciência de Dados.
+
+
