@@ -1,0 +1,20 @@
+Estatística e Data Science estão relacionadas, mas nãorepresentam o mesmo conceito
+
+
+
+Enquanto Estatística é um ramo da Matemática que lida com a coleta, análise, interpretação, apresentação e organização de dados,
+Data Science é um campo interdisciplinar que utiliza técnicas e métodos estatísticos, programação de computadores e conhecimento de domínio (área de negócio) 
+específico para extrair informações e conhecimentos a partir de dados brutos.
+
+
+
+Data Science incorpora elementos de diversas áreas, como estatística, ciência da computação, matemática aplicada, aprendizado de máquina (Machine Learning),
+visualização de dados e conhecimento de domínio específico.
+O objetivo em Data Science é resolver problemas complexos e tomar decisões informadas com base em análises e interpretações de grandes volumes de dados.
+
+
+
+Embora a Estatística seja um componente fundamental em Data Science, a Ciência de Dados vai muito além das técnicas estatísticas, 
+incluindo também aspectos como limpeza de dados, engenharia de recursos, implementação de algoritmos de aprendizado de máquina e comunicação dos resultados obtidos.
+Dessa forma, pode-se dizer que a Estatística é uma parte essencial em Data Science, mas os dois conceitos não são sinônimos.
+Essa, aliás, é a definição fornecida pela Associação Americana de Estatística.

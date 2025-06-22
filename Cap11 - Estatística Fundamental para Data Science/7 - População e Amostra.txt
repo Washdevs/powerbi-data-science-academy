@@ -1,0 +1,33 @@
+População e amostra são conceitos fundamentais na Estatística e referem-se a diferentes aspectos da coleta e análise de dados. 
+Entender a diferença entre os dois é crucial para a realização de pesquisas e análises estatísticas.
+
+População
+A população, também conhecida como população-alvo ou universo, é oconjunto completo de elementos ou unidades de interesse em um estudo ou pesquisa.
+A população pode incluir pessoas, animais, objetos ou eventos e pode ser finita ou infinita, dependendo do contexto.
+Ao analisar a população, estamos interessados em suas características e propriedades, como média, proporção ou correlação.
+Por exemplo, se quisermos analisar a altura média de todos os adultos de um país, a população seria composta por todos os adultos desse país.
+
+Amostra
+A amostra é um subconjunto da população que é selecionado para representá-la em um estudo ou pesquisa. 
+Em muitos casos, é impraticável ou impossível coletar dados de toda a população devido a restrições de tempo, custo ou outros recursos.
+Por isso, os pesquisadores selecionam uma amostra que seja representativa da população para realizar a análise.
+A amostra deve ser selecionada usando métodos adequados de amostragem, como amostragem aleatória simples,
+estratificada ou por conglomerados, para garantir que as características da população 
+sejam adequadamente refletidas e que as inferências feitas a partir da amostra sejam válidas.
+
+Técnicas de amostragem são estudas na Formação Análise Estatística e Formação Cientista de Dados aqui na DSA.
+Usando o exemplo anterior, em vez de medir a altura de todos os adultos do país, selecionaríamos um grupo menor de adultos (a amostra) e mediríamos suas alturas.
+A partir dessa amostra, inferiríamos a altura média da população geral
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Resumo sobre População e Amostra:
+Na Estatística, população e amostra são conceitos essenciais.
+
+População: É o conjunto completo de elementos ou unidades de interesse em uma pesquisa (ex.: todos os adultos de um país). Pode ser finita ou infinita e inclui tudo o que queremos estudar.
+
+Amostra: É um subconjunto da população, selecionado de forma a representá-la, usado quando é inviável estudar toda a população. A amostra precisa ser escolhida por métodos adequados de amostragem (ex.: aleatória, estratificada) para garantir resultados confiáveis.
+
+Exemplo:
+Em vez de medir a altura de todos os adultos de um país, mede-se apenas a altura de um grupo menor (amostra) e a partir disso, estima-se a altura média da população.
+

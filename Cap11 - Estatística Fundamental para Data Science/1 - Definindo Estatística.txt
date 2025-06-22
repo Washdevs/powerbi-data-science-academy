@@ -1,0 +1,22 @@
+Estatística é um ramo da matemática que lida com coleta analaise e interpretação apresentação e organização de daos.
+Ela busca extrair informalçoes significativas de consintos de dados, permitindo a tomada de dicosões e a elaboração de previsoes em situações de inceteza.
+A estatística pode ser dividida em duas areas principais descritiva e inferencial.
+
+Estatística Descritiva: 
+Resumo e apresentadação dos dados de maneira eficiente, utilizando gráficos, tabelas e medids numéricas como média, mediana, moda, variância e desvio padrão.
+
+--- Descritiva Resumo: A Estatística Descritiva organiza e resume os dados de forma clara, usando gráficos,
+tabelas e números importantes como média, mediana, moda, variância e desvio padrão para facilitar a compreensão.
+Descritiva = Análise dos dados com média, variação vendo os dados.
+
+Estatística Inferencial:
+Usa técnicas e metodos para fazer generalizações e previsões a partir de dados amostrais, permitindo inferências(conclusão) sobre uma população maior. 
+A estatística Inferencial usa testes de hipóteses, intervalos de confiança e análise de regrassão, entre outras técnicas.
+
+--- Inferencial Resumo: A Estatística Inferencial é uma forma de analisar uma parte dos dados (amostra) para tirar conclusões ou fazer previsões sobre um grupo maior (população).
+ Ela usa ferramentas como testes de hipóteses, margens de erro e análises de relação entre dados (como a regressão).
+Inferencial = Tirar conclusão com base em uma análise de pequenas partes dos dados.
+
+Analista de Dados: usa Estatística Descritiva no Dia a Dia.
+Cientista de Dados: usa Estatística Descritiva e Estatística Inferencial no Dia a Dia
+
